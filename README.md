@@ -13,3 +13,4 @@ Adrian has posted everything you need to deploy a personal version of the Azure 
 
 ## Video coming soon! 
 
+"# HenrikToDo" 
