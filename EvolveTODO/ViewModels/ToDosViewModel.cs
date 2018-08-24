@@ -14,7 +14,7 @@ namespace EvolveTODO.ViewModels
 
         public ToDosViewModel()
         {
-            var rev = new { major = 0, minor = 0 };
+            var rev = new { major = 1, minor = 01 };
             Title = "ToDo v"+ rev.major + "." + rev.minor;
             azureService = ServiceLocator.Instance.Resolve<IService>();
 
